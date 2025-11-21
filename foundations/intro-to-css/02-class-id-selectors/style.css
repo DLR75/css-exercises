@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.lightred {
+    background-color: lightcoral;
+    font-family: Verdana, 'DejaVu Sans', sans-serif ;
+}
+
+.cooler {
+    color: aqua;
+    font-size: 24px;
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(64, 255, 47);
+    font-size: 24px;
+}
